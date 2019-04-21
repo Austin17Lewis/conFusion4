@@ -11,8 +11,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.2.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin17Lewis/conFusion3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Austin17Lewis/conFusion3/issues"
+  },
+  "homepage": "https://github.com/Austin17Lewis/conFusion3#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
